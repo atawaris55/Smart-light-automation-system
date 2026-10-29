@@ -4,7 +4,7 @@ An ESP32-based automatic light control system that uses an LDR sensor to detect 
 
 ## Demo Video
 
-[Watch the demo here](PASTE_YOUR_VIDEO_LINK_HERE)
+[Watch the demo here](https://drive.google.com/file/d/1XDrBw-4gGCKwLzdo_NafeR9be8W6XRqm/view)
 
 ## Features
 
